@@ -1,0 +1,108 @@
+.lupa {
+    width: 50px;
+    height: 40px;
+    
+    
+   
+    
+}
+
+.div{
+ display: flex;
+ padding-top: 400px;
+ margin-left: 900px;
+
+
+}
+
+.localizar{
+    width: 500px;
+    height: 40px;
+    font-size: 25px;
+    
+    
+}
+
+
+
+
+.card{
+
+    display: inline-block;
+    padding-top: 20px;
+    margin: 5px;
+    
+}
+
+
+
+.img{
+    width: 200px;
+    height: 200px;
+    padding-top: 60px;
+    margin-left: 60px;
+
+    
+}
+
+.texto{
+    padding-top: 10px;
+    text-align: center ;
+    color: white;
+    margin-top: 30px;
+    margin-left: 60px;
+    font-size: 13px;
+    width: 200px;
+    
+}
+
+.ano{
+
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    background-color: red;
+    margin-top: 10px;
+    margin-left: 60px;
+    
+}
+
+
+.imagemTitulo{
+    background-image: url(../imagem/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+    
+    
+}
+
+
+body{
+    background-color: rgb(5, 5, 5);
+}
+
+
+.tituloPrincipal{
+
+    padding-top: 40px;
+    margin-left: 300px;
+    color: red;
+    font-size: 80px;
+    position: absolute;
+    font-family: 'Gloria Hallelujah', cursive;
+    
+
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.img:hover{
+    transform: scale(1.2);
+    
+}
